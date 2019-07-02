@@ -1,5 +1,5 @@
 [link to netlify](https://gallant-euler-b00790.netlify.com/)
-![LAYOUT.png](https://raw.githubusercontent.com/greenmoon1558/formula-fe-test/master/Level1_Html&css/resources/homepage.jpg)
+![LAYOUT.png](https://raw.githubusercontent.com/greenmoon1558/formula-fe-test/master/Level1_Html_css/resources/homepage.jpg)
 
 ## Project setup
 

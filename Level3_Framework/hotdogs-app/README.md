@@ -1,5 +1,5 @@
 [link to netlify](https://infallible-curie-84eacf.netlify.com/)
-![LAYOUT.png](https://raw.githubusercontent.com/greenmoon1558/formula-fe-test/master/Level1_Html&css/resources/homepage.jpg)
+![LAYOUT.png](https://raw.githubusercontent.com/greenmoon1558/formula-fe-test/master/Level1_Html_css/resources/homepage.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
